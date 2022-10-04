@@ -1,0 +1,31 @@
+.element1 {
+    background: #edab92;
+    width: 1080px;
+    text-align: center;
+    margin: 0px auto;
+
+
+    }
+     
+    .element2 {
+    width: 1080px;
+    height: 720px;
+    margin: 0px auto;
+    border: 5px solid orange;
+    }
+    .element3{
+        width: 25%;
+        height: 100%;
+        background: blue;
+        float: left;
+    }
+    .element4
+    {
+        width: 75%;
+        height: 100%;
+        background: red;
+        float: right;
+    }
+    .gorizont li {
+    display: inline; 
+    }
